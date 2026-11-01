@@ -7,6 +7,7 @@ public class Ejercicio9 {
 	System.out.println("El 11 está en la posición: " + devolverInt(ints,11));
 	}
 	
+	
 	private static int devolverInt (int[]ints, int valor) {
 		if(ints==null) {
 			return -1;
