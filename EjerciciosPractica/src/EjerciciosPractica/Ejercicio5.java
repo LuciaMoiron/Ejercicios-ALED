@@ -10,6 +10,7 @@ public class Ejercicio5 {
 		System.out.println( i + "x" + j + "=" + resultado);
 		 }
 	 }
+	 
 
 	 
 	 
